@@ -39,4 +39,48 @@
   <img src="https://img.shields.io/badge/Gemini-A2C5D9?style=for-the-badge&logo=googlegemini&logoColor=0B1021" alt="Gemini" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ccb9e347-4660-430d-8b71-0771c72f2f3c" width="360" />
+  <br/><br/>
+  <img align="left" src="https://github.com/user-attachments/assets/924d6ac5-5ffb-49af-b355-37d46b395650" width="240" />
+</div>
 
+<b>Hi, I'm Emirhan 👋</b>
+<br/><br/>
+A mobile developer from Türkiye building <b>AI-powered apps</b> that solve real problems.
+I work with <b>React Native</b> & <b>Expo</b> on the front end, <b>Supabase</b> & <b>PostgreSQL</b>
+on the back end, and I use automation (<b>n8n</b>) and AI tools to build and ship faster.
+Right now I'm turning ideas into real products — and leveling up in <b>Python</b> & AI along the way.
+
+<br clear="all"/>
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9de1d2b1-741a-4410-beb3-e34ed5a7253c" width="380" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emirhanoktay&show_icons=true&hide_border=true&title_color=9CD5FF&icon_color=A2C5D9&text_color=C9D6E3&bg_color=00000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanoktay&layout=compact&hide_border=true&title_color=9CD5FF&text_color=C9D6E3&bg_color=00000000" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emirhanoktay&hide_border=true&background=00000000&stroke=35628B&ring=9CD5FF&fire=9CD5FF&currStreakLabel=9CD5FF&sideLabels=C9D6E3&currStreakNum=9CD5FF&sideNums=9CD5FF&dates=8B98A5" />
+</div>
+
+
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6abaca2c-9864-4a72-8cdf-483e8ebe75ac" width="420" />
+</div>
+
+<img align="right" src="https://github.com/user-attachments/assets/2832466b-43ef-484c-981e-d6d342bf1056" width="190" />
+
+Building toward my own app studio — a place where many ideas turn into real products, shipped fast and built to last.
+<br/><br/>
+Always learning, always building.
+<br/><br/>
+<i>"Build. Ship. Repeat."</i>
+
+<br clear="all"/>
