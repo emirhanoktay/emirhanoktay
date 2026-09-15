@@ -22,7 +22,7 @@
 
 <!-- ======================= TECHNOLOGIES (baslik gorseli) ======================= -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6abaca2c-9864-4a72-8cdf-483e8ebe75ac" width="440" />
+  <img src="https://github.com/user-attachments/assets/899616d9-26af-4d0c-93e4-1bc39a5cf416" width="440" />
 </div>
 
 <!-- ======================= TEKNOLOJI ROZETLERI (satir 1: koyu | satir 2: orta | satir 3: acik) ======================= -->
