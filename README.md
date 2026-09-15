@@ -75,12 +75,12 @@ Right now I'm turning ideas into real products — and leveling up in <b>Python<
   <img src="https://github.com/user-attachments/assets/6abaca2c-9864-4a72-8cdf-483e8ebe75ac" width="420" />
 </div>
 
-<img align="right" src="https://github.com/user-attachments/assets/2832466b-43ef-484c-981e-d6d342bf1056" width="190" />
-
-Building toward my own app studio — a place where many ideas turn into real products, shipped fast and built to last.
-<br/><br/>
-Always learning, always building.
-<br/><br/>
-<i>"Build. Ship. Repeat."</i>
-
-<br clear="all"/>
+<div align="center">
+  Building toward my own app studio — a place where many ideas turn into real products, shipped fast and built to last.
+  <br/><br/>
+  Always learning, always building.
+  <br/><br/>
+  <i>"Build. Ship. Repeat."</i>
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/2832466b-43ef-484c-981e-d6d342bf1056" width="200" />
+</div>
